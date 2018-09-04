@@ -1,0 +1,1 @@
+export const SWAP_DOWNBLOCK = 'SWAP_DOWNBLOCK';

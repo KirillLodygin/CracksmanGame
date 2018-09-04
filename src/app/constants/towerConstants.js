@@ -1,0 +1,16 @@
+export const TOWER_REAL_STATE = 'TOWER_REAL_STATE';
+export const SWAP_INFORMATION = 'SWAP_INFORMATION';
+/*
+export const SWAP_TOWER_RANK = 'SWAP_TOWER_RANK';
+export const TOWER_INC_REAL_STATE = 'TOWER_INC_REAL_STATE';
+export const POSITIONS_REAL_STATE = 'POSITIONS_REAL_STATE';
+export const TOWER_ACTIVE = 'TOWER_ACTIVE';
+export const FLOORS_BUSY = 'FLOORS_BUSY';
+export const TOWER_HEIGHT = 'TOWER_HEIGHT';
+export const SWAP_DISABLED = 'SWAP_DISABLED';
+export const SWAP_ENTRY = 'SWAP_ENTRY';
+export const SWAP_EXIT = 'SWAP_EXIT';
+export const SWAP_ROUNDS = 'SWAP_ROUNDS';
+export const SWAP_MISSTEPS = 'SWAP_MISSTEPS';
+export const SWAP_BANK = 'SWAP_BANK';
+*/
